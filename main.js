@@ -1,6 +1,3 @@
-
-
-
 var minutesInput = document.querySelector('#minutes');
 var secondsInput = document.querySelector('#seconds');
 var startButton = document.querySelector('#start');

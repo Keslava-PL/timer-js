@@ -1,0 +1,30 @@
+.container{
+    background-color: orange;
+    margin: 0 auto;
+    height: 500px;
+    width: 601px;
+    position: relative;
+    border: 2px solid black;
+}
+
+.main{
+    position: absolute;
+    width: 200px;
+    left: 0;
+    height: auto;
+    display: block;
+    padding: 1px 5px 5px 5px;
+}
+#minutes{
+    margin-bottom: 5px;
+}
+#start{
+position: absolute;
+left: 30%;
+top: 18%;
+width: 100px;
+height: 50px;
+border: 3px solid black;
+border-radius: 5px;
+
+}
